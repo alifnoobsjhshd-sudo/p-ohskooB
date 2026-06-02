@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Books",
+  "description": "Curated literary excellence. Discover rare editions, literary masterpieces, and timeless classics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
